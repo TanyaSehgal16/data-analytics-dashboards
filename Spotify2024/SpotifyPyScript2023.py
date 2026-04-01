@@ -5,8 +5,8 @@ import time
 # ----------------------------------------
 # 1. ENTER YOUR SPOTIFY API CREDENTIALS
 # ----------------------------------------
-CLIENT_ID = "3e2581aca2fa416f81b7082898555130"
-CLIENT_SECRET = "382adbbf11ad404097c5f101298591c6"
+CLIENT_ID = "1234"
+CLIENT_SECRET = "1234"
 
 # ----------------------------------------
 # 2. AUTHENTICATE WITH SPOTIFY API
